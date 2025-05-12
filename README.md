@@ -12,15 +12,15 @@ Learn how to create and deploy a fully functional token swap decentralized appli
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code]()
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-advance-solana-token-swap-dapp-using-next.js-and-tailwind-css-on-solana-mainnet)
 
 #### Setup Video
 
-- [Final Code Setup video]()
+- [Final Code Setup video](https://youtu.be/n9tiBu08Cl8?si=U43ANLPpb8XQ9_3k)
 
 ```
   WATCH: Setup & Demo Of Project
-  URL:
+  URL: https://www.theblockchaincoders.com/sourceCode/build-and-deploy-advance-solana-token-swap-dapp-using-next.js-and-tailwind-css-on-solana-mainnet
 ```
 
 #### Hostinger Deployment Online
@@ -63,14 +63,15 @@ If you download the final source code then you can follow the following instruct
 
 ```
   WATCH: Setup & Demo Of Project
-  URL:
+  URL: https://youtu.be/n9tiBu08Cl8?si=U43ANLPpb8XQ9_3k
 ```
 
 #### Final Source Code
 
 ```
   GET: Download the Final Source Code
-  URL:
+  URL: https://www.theblockchaincoders.com/sourceCode/build-and-deploy-advance-solana-token-swap-dapp-using-next.js-and-tailwind-css-on-solana-mainnet
+  VIDEO: https://youtu.be/n9tiBu08Cl8?si=U43ANLPpb8XQ9_3k
 ```
 
 #### Install Vs Code Editor
