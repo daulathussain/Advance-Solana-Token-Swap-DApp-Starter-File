@@ -6,7 +6,7 @@ Learn how to create and deploy a fully functional token swap decentralized appli
 
 ## Project Overview
 
-![alt text](https://www.daulathussain.com/wp-content/uploads/2025/05/Build-and-Deploy-a-Solana-Token-Swap-DApp-Using-Next.js-and-Tailwind-CSS-on-Solana-Mainnet.jpg)
+![alt text](https://www.daulathussain.com/wp-content/uploads/2025/05/Build-and-Deploy-Advance-Solana-Token-Swap-DApp-Using-Next.js-and-Tailwind-CSS-on-Solana-Mainnet.jpeg)
 
 ## Instruction
 
